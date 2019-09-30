@@ -1,1 +1,13 @@
+;aiu;
 
+[Example 2.0]
+Name = Example 2.0
+ProductVersion = 2.0.0.0
+URL = https://github.com/tajodoin/demo/blob/master/Example.exe
+Size = 9216
+MD5 = d663982ab75d22a7c749ff4f15058978
+ServerFileName = Example.exe
+Flags = Sys64
+RegistryKey = HKUD\Software\Example\Version
+Version = 2.0.0.0
+Description = Updates the version number listed in the application.
